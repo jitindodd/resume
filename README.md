@@ -8,7 +8,7 @@ A simple gh-pages resume.
 - `brew update && brew upgrade ruby-build`
 - `rbenv install 2.2.5`
 - `bundle`
-- Start your server: `middleman`
+- Start your server: `bundle exec middleman`
 - Navigate to http://localhost:4567
 
 To view all the components of this framework, navigate to http://localhost:4567/components
