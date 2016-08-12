@@ -1,6 +1,8 @@
 # Resume
 
-A simple gh-pages resume.
+A simple gh-pages resume. 
+
+Example: http://doximity.github.io/resume/
 
 #### Development Installation
 
